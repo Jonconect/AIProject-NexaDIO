@@ -1,8 +1,9 @@
-
 # IA Generativa e o Futuro do Trabalho 🚀
 
 ## 📒 Descrição  
 Apresentação interativa criada com base em um roteiro desenvolvido via IA Generativa, explorando como essa tecnologia está transformando o mercado de trabalho. O conteúdo aborda impactos em diferentes setores, novas profissões, habilidades emergentes e os desafios éticos da era da automação inteligente.
+
+📄 [Clique aqui para ver a apresentação em PDF](IA-Generativa-e-o-Futuro-do-Trabalho.pdf)
 
 ## 🤖 Tecnologias Utilizadas  
 - **ChatGPT (Copilot)**: Roteirização e revisão do conteúdo textual  
@@ -22,6 +23,3 @@ Apresentação interativa criada com base em um roteiro desenvolvido via IA Gene
 
 ## 💭 Reflexão  
 Criar uma narrativa visual com IA Generativa foi uma experiência transformadora. A tecnologia não apenas acelerou o processo criativo, como também ampliou minha capacidade de comunicar ideias complexas de forma envolvente. Este projeto é um exemplo prático de como humanos e máquinas podem colaborar para construir conhecimento.
-
-## Links Interessantes
-
