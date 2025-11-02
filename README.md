@@ -1,4 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 # IA Generativa e o Futuro do Trabalho 🚀
 
